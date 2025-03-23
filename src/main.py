@@ -1,4 +1,3 @@
-#!/opt/anaconda3/envs/typegame/bin/python
 import os
 import random
 import pygame

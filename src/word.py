@@ -1,5 +1,6 @@
-BLACK = (0,0,0)
-
+from color import Color
+c = Color()
+BLACK = c.black
 class Word:
 	def __init__(self,text, x, y, speed, font):
 		self.text = text
